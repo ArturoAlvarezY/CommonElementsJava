@@ -13,6 +13,5 @@ public class FirstArrayTest {
         FirstArray firstArray = new FirstArray();
         ArrayList<Integer> first = firstArray.getingFirstArray();
         assertThat(first, contains(0, 1,2,3));
-
     }
 }

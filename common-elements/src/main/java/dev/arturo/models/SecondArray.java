@@ -14,7 +14,6 @@ public class SecondArray {
         secondList.add(4);
         secondList.add(5);
         secondList.add(3);
-
         return secondList;
 
 }
